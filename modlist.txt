@@ -126,6 +126,7 @@ https://mod.io/g/drg/m/sandbox-utilities#1897251
 /home/gaming/drg/paks/BetterTerminal3.pak
 /home/gaming/drg/paks/bulldogcrosshair.pak
 /home/gaming/drg/paks/cd1-client.pak
+/home/gaming/drg/paks/CD2FrozenFix_P.pak
 /home/gaming/drg/paks/CheckResup.pak
 /home/gaming/drg/paks/ClearerPings_IconsOnly.pak
 /home/gaming/drg/paks/Damage Overlay Removal.pak
@@ -135,6 +136,7 @@ https://mod.io/g/drg/m/sandbox-utilities#1897251
 /home/gaming/drg/paks/FixDreadnoughtStompIndicatorNotShowing.pak
 /home/gaming/drg/paks/FixMacteraProjectileTrailNotShowing.pak
 /home/gaming/drg/paks/FixPatrolBotLaserSightNotShowing.pak
+/home/gaming/drg/paks/Grabber Tractor.pak
 /home/gaming/drg/paks/HeavyExtractionCavegenRevert.pak
 /home/gaming/drg/paks/homing_drone_beep.pak
 /home/gaming/drg/paks/LessBrightStickyFlames.pak
@@ -152,12 +154,14 @@ https://mod.io/g/drg/m/sandbox-utilities#1897251
 /home/gaming/drg/paks/NoCarveResinite.pak
 /home/gaming/drg/paks/NoCrosshairButInfov5.pak
 /home/gaming/drg/paks/nogasspitpraet.pak
+/home/gaming/drg/paks/nohalloweenskullfreeze.pak
 /home/gaming/drg/paks/NoHudBackgroundNoGrenadeFlareKeybinds.pak
 /home/gaming/drg/paks/NoInertRockpoxCorruptor.pak
 /home/gaming/drg/paks/NoLiftPodDamage.pak
 /home/gaming/drg/paks/NoPlantCarve.pak
 /home/gaming/drg/paks/noragdoll-grabberfix.pak
 /home/gaming/drg/paks/nuke_range_indicator.pak
+/home/gaming/drg/paks/NWOS_AllDirections.pak
 /home/gaming/drg/paks/OBNC_patchedMEVv7.pak
 /home/gaming/drg/paks/ReliableLandscape.pak
 /home/gaming/drg/paks/remove-all-muzzle-flashes.pak
@@ -167,6 +171,7 @@ https://mod.io/g/drg/m/sandbox-utilities#1897251
 /home/gaming/drg/paks/ResupplyReporter.pak
 /home/gaming/drg/paks/SabotagewithStationaries.pak
 /home/gaming/drg/paks/SentriesOnDoretta.pak
+/home/gaming/drg/paks/shieldc4countV2.pak
 /home/gaming/drg/paks/StalkerLowGraphicsFix.pak
 /home/gaming/drg/paks/TerrainSyncFix_P.pak
 /home/gaming/drg/paks/Tutorial_Biome_Recolour.pak
