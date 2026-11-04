@@ -161,7 +161,6 @@ https://mod.io/g/drg/m/sandbox-utilities#1897251
 /home/gaming/drg/paks/NoPlantCarve.pak
 /home/gaming/drg/paks/noragdoll-grabberfix.pak
 /home/gaming/drg/paks/nuke_range_indicator.pak
-/home/gaming/drg/paks/NWOS_AllDirections.pak
 /home/gaming/drg/paks/OBNC_patchedMEVv7.pak
 /home/gaming/drg/paks/ReliableLandscape.pak
 /home/gaming/drg/paks/remove-all-muzzle-flashes.pak
@@ -176,7 +175,8 @@ https://mod.io/g/drg/m/sandbox-utilities#1897251
 /home/gaming/drg/paks/TerrainSyncFix_P.pak
 /home/gaming/drg/paks/Tutorial_Biome_Recolour.pak
 /home/gaming/drg/paks/zAOE_Indicator.pak
-/home/gaming/drg/paks/DEA_b02.1.pak
 /home/gaming/drg/paks/MEVv5_4.pak
+/home/gaming/drg/paks/DEA_b02.1.pak
 https://mod.io/g/drg/m/elytrasenemiesexpansion#4756710
+/home/gaming/drg/paks/YoMAMAv0.4.pak
 /home/gaming/drg/paks/custom-difficulty2-update-18.zip
